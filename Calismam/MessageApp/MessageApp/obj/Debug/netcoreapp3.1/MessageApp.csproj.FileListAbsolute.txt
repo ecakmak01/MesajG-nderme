@@ -1,0 +1,13 @@
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.exe
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.deps.json
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.runtimeconfig.json
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.runtimeconfig.dev.json
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.dll
+C:\Users\toşib\source\repos\MessageApp\MessageApp\bin\Debug\netcoreapp3.1\MessageApp.pdb
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.csproj.AssemblyReference.cache
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.AssemblyInfoInputs.cache
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.AssemblyInfo.cs
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.csproj.CoreCompileInputs.cache
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.dll
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.pdb
+C:\Users\toşib\source\repos\MessageApp\MessageApp\obj\Debug\netcoreapp3.1\MessageApp.genruntimeconfig.cache

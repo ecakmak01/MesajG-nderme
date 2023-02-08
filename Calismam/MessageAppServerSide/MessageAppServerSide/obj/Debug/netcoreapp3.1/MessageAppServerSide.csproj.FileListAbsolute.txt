@@ -1,0 +1,13 @@
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.AssemblyInfoInputs.cache
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.AssemblyInfo.cs
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.csproj.CoreCompileInputs.cache
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.exe
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.deps.json
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.runtimeconfig.json
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.runtimeconfig.dev.json
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.dll
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\bin\Debug\netcoreapp3.1\MessageAppServerSide.pdb
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.csproj.AssemblyReference.cache
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.dll
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.pdb
+C:\Users\toşib\source\repos\MessageAppServerSide\MessageAppServerSide\obj\Debug\netcoreapp3.1\MessageAppServerSide.genruntimeconfig.cache
